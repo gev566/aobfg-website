@@ -1,0 +1,807 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title data-local="vacancy"></title>
+    <!-- Stylesheets -->
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/responsive.css" rel="stylesheet" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@300;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Color Switcher Mockup -->
+    <link href="css/color-switcher-design.css" rel="stylesheet" />
+
+    <!-- Color Themes -->
+    <link
+      id="theme-color-file"
+      href="css/color-themes/default-theme.css"
+      rel="stylesheet"
+    />
+
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+
+    <!-- Responsive -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+    />
+
+    <!--[if lt IE 9
+      ]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script
+    ><![endif]-->
+    <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+  </head>
+
+  <body class="hidden-bar-wrapper">
+    <div class="page-wrapper">
+      <!-- Preloader -->
+      <div class="preloader"></div>
+
+      <!-- Main Header-->
+      <header class="main-header header-style-one">
+        <!-- Header Top -->
+        <div class="header-top">
+          <div class="auto-container">
+            <div class="clearfix">
+              <!-- Top Left -->
+              <div class="top-left">
+                <!-- Info List -->
+                <ul class="info-list">
+                  <li>
+                    <a href="mailto:info@aobfg.ru"
+                      ><span class="icon flaticon-email"></span>
+                      info@aobfg.ru</a
+                    >
+                  </li>
+                  <li>
+                    <a href="tel:+74951206509"
+                      ><span class="icon flaticon-telephone"></span> +7 (495)
+                      120-65-09</a
+                    >
+                  </li>
+                </ul>
+              </div>
+
+              <!-- Top Right -->
+              <!--              <div class="top-right pull-right">-->
+              <!--                &lt;!&ndash; Social Box &ndash;&gt;-->
+              <!--                <ul class="social-box" style="display: none">-->
+              <!--                  <li><a href="#" class="fa fa-facebook-f"></a></li>-->
+              <!--                  <li><a href="#" class="fa fa-twitter"></a></li>-->
+              <!--                  <li><a href="#" class="fa fa-dribbble"></a></li>-->
+              <!--                  <li><a href="#" class="fa fa-google"></a></li>-->
+              <!--                </ul>-->
+              <!--              </div>-->
+            </div>
+          </div>
+        </div>
+
+        <!--Header-Upper-->
+        <div class="header-upper">
+          <div class="auto-container clearfix">
+            <div class="pull-left logo-box">
+              <div class="logo">
+                <a href="index.html"
+                  ><img src="images/logo.png" alt="" title=""
+                /></a>
+              </div>
+            </div>
+
+            <div class="nav-outer clearfix">
+              <!--Mobile Navigation Toggler-->
+              <div class="mobile-nav-toggler">
+                <span class="icon flaticon-menu"></span>
+              </div>
+              <!-- Main Menu -->
+              <nav class="main-menu navbar-expand-md">
+                <div class="navbar-header">
+                  <!-- Toggle Button -->
+                  <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-toggle="collapse"
+                    data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                  >
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+                </div>
+
+                <div
+                  class="navbar-collapse collapse clearfix"
+                  id="navbarSupportedContent"
+                >
+                  <ul class="navigation clearfix">
+                    <li><a href="index.html" data-local="home"></a></li>
+                    <li><a href="about.html" data-local="aboutUs"></a></li>
+                    <li><a href="products.html" data-local="products"></a></li>
+                    <li class="current">
+                      <a href="vacancy.html" data-local="vacancy"></a>
+                    </li>
+                    <li>
+                      <a href="contact.html" data-local="contactUs"></a>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#">
+                        <span class="language-icon"
+                          ><svg
+                            viewBox="0 0 36 36"
+                            xmlns="http://www.w3.org/2000/svg"
+                            aria-hidden="true"
+                            width="17"
+                            height="17"
+                            fill="currentColor"
+                          >
+                            <path
+                              d="M26.54,18a19.38,19.38,0,0,0-.43-4h3.6a12.3,12.3,0,0,0-.67-1.6H25.69A19.72,19.72,0,0,0,22.8,6.53a12.3,12.3,0,0,0-2.55-.76,17.83,17.83,0,0,1,3.89,6.59H18.75V5.6c-.25,0-.51,0-.77,0s-.49,0-.73,0v6.77H11.86a17.83,17.83,0,0,1,3.9-6.6,12.28,12.28,0,0,0-2.54.75,19.72,19.72,0,0,0-2.91,5.85H6.94A12.3,12.3,0,0,0,6.26,14H9.89a19.38,19.38,0,0,0-.43,4,19.67,19.67,0,0,0,.5,4.37H6.42A12.34,12.34,0,0,0,7.16,24h3.23a19.32,19.32,0,0,0,2.69,5.36,12.28,12.28,0,0,0,2.61.79A17.91,17.91,0,0,1,12,24h5.26v6.34c.24,0,.49,0,.73,0s.51,0,.77,0V24H24a17.9,17.9,0,0,1-3.7,6.15,12.28,12.28,0,0,0,2.62-.81A19.32,19.32,0,0,0,25.61,24h3.2a12.34,12.34,0,0,0,.74-1.6H26A19.67,19.67,0,0,0,26.54,18Zm-9.29,4.37H11.51a17.69,17.69,0,0,1-.09-8.4h5.83Zm7.24,0H18.75V14h5.83A18.21,18.21,0,0,1,25,18,18.12,18.12,0,0,1,24.49,22.37Z"
+                            ></path>
+                            <path
+                              d="M18,2A16,16,0,1,0,34,18,16,16,0,0,0,18,2Zm0,30A14,14,0,1,1,32,18,14,14,0,0,1,18,32Z"
+                            ></path></svg
+                        ></span>
+                      </a>
+                      <ul>
+                        <li onclick="setLocalization('ru')"><a>Русский</a></li>
+                        <li onclick="setLocalization('en')"><a>English</a></li>
+                        <li onclick="setLocalization('am')"><a>հայերեն</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </nav>
+
+              <!-- Main Menu End-->
+              <div class="outer-box clearfix">
+                <!-- Quote Btn -->
+                <div class="btn-box">
+                  <a
+                    href="contact.html#form-section"
+                    class="theme-btn btn-style-one"
+                    ><span class="txt" data-local="freeConsulting"></span
+                  ></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--End Header Upper-->
+
+        <!-- Sticky Header  -->
+        <div class="sticky-header">
+          <div class="auto-container clearfix">
+            <!--Logo-->
+            <div class="logo pull-left">
+              <a href="index.html" title=""
+                ><img src="images/logo-small.png" alt="" title=""
+              /></a>
+            </div>
+            <!--Right Col-->
+            <div class="pull-right">
+              <!-- Main Menu -->
+              <nav class="main-menu">
+                <!--Keep This Empty / Menu will come through Javascript-->
+              </nav>
+              <!-- Main Menu End-->
+            </div>
+          </div>
+        </div>
+        <!-- End Sticky Menu -->
+
+        <!-- Mobile Menu  -->
+        <div class="mobile-menu">
+          <div class="menu-backdrop"></div>
+          <div class="close-btn">
+            <span class="icon flaticon-multiply"></span>
+          </div>
+
+          <nav class="menu-box">
+            <div class="nav-logo">
+              <a href="index.html"
+                ><img src="images/logo.png" alt="" title=""
+              /></a>
+            </div>
+            <div class="menu-outer">
+              <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+            </div>
+          </nav>
+        </div>
+        <!-- End Mobile Menu -->
+      </header>
+      <!-- End Main Header -->
+
+      <!--Page Title-->
+      <section class="page-title">
+        <div
+          class="pattern-layer-one"
+          style="background-image: url(images/background/pattern-16.png)"
+        ></div>
+        <div class="auto-container">
+          <h2 data-local="vacancy"></h2>
+        </div>
+      </section>
+      <!--End Page Title-->
+
+      <!-- Project Detail Section -->
+      <section class="vacancy-section">
+        <div class="auto-container">
+          <div class="lower-section">
+            <p data-local="vacancyDesc1" class="custom-medium-size"></p>
+            <p data-local="vacancyDesc2" class="custom-medium-size"></p>
+
+            <div class="row clearfix">
+              <!-- Column -->
+              <div class="column col-lg-6 col-md-12 col-sm-12">
+                <ul class="accordion-box">
+                  <!--Block-->
+                  <li class="accordion block">
+                    <div class="acc-btn" data-local="vacancy1">
+                      <div class="icon fa fa-angle-right"></div>
+                    </div>
+                    <div class="acc-content">
+                      <div class="content">
+                        <div class="text">
+                          Управление инфраструктурой и CI/CD процессами для
+                          оптимизации разработки и развертывания ПО.
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!--Block-->
+                  <li class="accordion block">
+                    <div class="acc-btn" data-local="vacancy2">
+                      <div class="icon fa fa-angle-right"></div>
+                    </div>
+                    <div class="acc-content">
+                      <div class="content">
+                        <div class="text">
+                          Проектирование, внедрение и поддержка комплексных IT
+                          систем и сетевых инфраструктур.
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!--Block-->
+                  <li class="accordion block">
+                    <div class="acc-btn" data-local="vacancy3">
+                      <div class="icon fa fa-angle-right"></div>
+                    </div>
+                    <div class="acc-content">
+                      <div class="content">
+                        <div class="text">
+                          Тестирование программного обеспечения для обеспечения
+                          его качества и соответствия требованиям.
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!--Block-->
+                  <li class="accordion block">
+                    <div class="acc-btn" data-local="vacancy4">
+                      <div class="icon fa fa-angle-right"></div>
+                    </div>
+                    <div class="acc-content">
+                      <div class="content">
+                        <div class="text">
+                          Разработка высокопроизводительных приложений и
+                          сервисов на языке Go.
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!--Block-->
+                  <li class="accordion block">
+                    <div class="acc-btn" data-local="vacancy5">
+                      <div class="icon fa fa-angle-right"></div>
+                    </div>
+                    <div class="acc-content">
+                      <div class="content">
+                        <div class="text">
+                          Поиск, отбор и привлечение талантливых специалистов
+                          для удовлетворения кадровых потребностей компании.
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <!--Block-->
+                  <li class="accordion block">
+                    <div class="acc-btn" data-local="vacancy6">
+                      <div class="icon fa fa-angle-right"></div>
+                    </div>
+                    <div class="acc-content">
+                      <div class="content">
+                        <div class="text">
+                          Создание интуитивно понятных и привлекательных
+                          пользовательских интерфейсов и улучшение
+                          пользовательского опыта.
+                        </div>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!--            <ul class="social-box disk">-->
+            <!--              <li data-local="vacancy1"></li>-->
+            <!--              <li data-local="vacancy2"></li>-->
+            <!--              <li data-local="vacancy3"></li>-->
+            <!--              <li data-local="vacancy4"></li>-->
+            <!--              <li data-local="vacancy5"></li>-->
+            <!--              <li data-local="vacancy6"></li>-->
+            <!--            </ul>-->
+
+            <!--            <p class="font-weight-bold">-->
+            <!--              <span data-local="vacancy1"></span>-->
+            <!--            </p>-->
+            <!--            <p class="font-weight-bold">-->
+            <!--              <span data-local="vacancy2"></span>-->
+            <!--            </p>-->
+            <!--            <p class="font-weight-bold">-->
+            <!--              <span data-local="vacancy3"></span>-->
+            <!--            </p>-->
+            <!--            <p class="font-weight-bold">-->
+            <!--              <span data-local="vacancy4"></span>-->
+            <!--            </p>-->
+            <!--            <p class="font-weight-bold">-->
+            <!--              <span data-local="vacancy5"></span>-->
+            <!--            </p>-->
+            <!--            <p class="font-weight-bold">-->
+            <!--              <span data-local="vacancy6"></span>-->
+            <!--            </p>-->
+            <p class="custom-medium-size">
+              <span data-local="vacancyDesc3"></span
+              ><span class="font-weight-bold"> pelymskaya.ad@aobfg.ru.</span>
+            </p>
+            <p data-local="vacancyDesc4" class="custom-medium-size"></p>
+            <p data-local="vacancyDesc5" class="custom-medium-size"></p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Contact Map Section -->
+      <section class="vacancy-form-section">
+        <div class="auto-container">
+          <!-- Sec Title -->
+          <div class="sec-title">
+            <div class="clearfix">
+              <div class="pull-left">
+                <h2 data-local="respondVacancyOrContactHR"></h2>
+              </div>
+            </div>
+          </div>
+
+          <!-- Contact Form -->
+          <div class="contact-form">
+            <!-- Contact Form -->
+            <div class="row clearfix">
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label><span data-local="name"></span> *</label>
+                <input
+                  id="vacancy-name-input"
+                  type="text"
+                  placeholder=""
+                  required
+                />
+                <span
+                  id="vacancy-form-name-empty-error"
+                  class="field-error-text"
+                  data-local="fieldCannotBeEmpty"
+                ></span>
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label><span data-local="surname"></span> *</label>
+                <input
+                  id="vacancy-surname-input"
+                  type="text"
+                  placeholder=""
+                  required
+                />
+                <span
+                  id="vacancy-form-surname-empty-error"
+                  class="field-error-text"
+                  data-local="fieldCannotBeEmpty"
+                ></span>
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label><span data-local="phoneNumber"></span> *</label>
+                <input
+                  id="vacancy-phone-input"
+                  type="text"
+                  placeholder=""
+                  required
+                />
+                <span
+                  id="vacancy-form-phone-empty-error"
+                  class="field-error-text"
+                  data-local="fieldCannotBeEmpty"
+                ></span>
+                <span
+                  id="vacancy-form-phone-current-error"
+                  class="field-error-text"
+                  data-local="phoneCurrentErrorText"
+                ></span>
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label><span data-local="cityResidence"></span> *</label>
+                <input
+                  id="vacancy-city-residence-input"
+                  type="text"
+                  placeholder=""
+                  required
+                />
+                <span
+                  id="vacancy-form-city-residence-empty-error"
+                  class="field-error-text"
+                  data-local="fieldCannotBeEmpty"
+                ></span>
+              </div>
+
+              <div class="form-group col-lg-6 col-md-6 col-sm-12">
+                <label data-local="currentPlaceWork"></label>
+                <input
+                  id="vacancy-current-place-work-input"
+                  type="text"
+                  placeholder=""
+                />
+              </div>
+
+              <div class="select-column pull-right col-md-6 col-sm-6 col-xs-12">
+                <div class="form-group">
+                  <label>Желаемая позиция *</label>
+                  <select id="vacancy-desired-position-select">
+                    <option>DevOps</option>
+                    <option>System Engineer</option>
+                    <option>QA</option>
+                    <option>GoLang Engineer</option>
+                    <option>Recruiter</option>
+                    <option>Designer UX/UI</option>
+                  </select>
+                </div>
+              </div>
+
+              <div
+                class="form-group col-lg-12 col-md-12 col-sm-12 attach-resume-section"
+              >
+                <input
+                  id="vacancy-resume-input"
+                  type="file"
+                  class="d-none"
+                  onchange="changeResumeInput(this)"
+                />
+                <div class="d-flex w-max" onclick="clickAttachContent()">
+                  <div class="resume-icon"></div>
+                  <label data-local="attachResume"></label>
+                </div>
+                <span id="selected-file-name"></span>
+              </div>
+
+              <div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
+                <button
+                  class="theme-btn btn-style-three"
+                  type="submit"
+                  name="submit-form"
+                  onclick="handleSubmit()"
+                >
+                  <span class="txt" data-local="send"></span>
+                </button>
+              </div>
+
+              <div class="form-group text-center col-lg-12 col-md-12 col-sm-12">
+                <p id="contact-form-sent-text" data-local="sent"></p>
+              </div>
+            </div>
+          </div>
+          <!-- End Contact Form -->
+        </div>
+      </section>
+
+      <!-- Info Section -->
+      <section
+        class="info-section"
+        style="background-image: url(images/background/6.jpg)"
+      >
+        <div class="auto-container">
+          <div class="row clearfix">
+            <!-- Logo Column -->
+            <div class="logo-column col-lg-3 col-md-6 col-sm-12">
+              <div class="inner-column">
+                <div class="logo">
+                  <a href="index.html"
+                    ><img src="images/logo-2.png" alt=""
+                  /></a>
+                </div>
+              </div>
+            </div>
+
+            <!-- Info Column -->
+            <div class="info-column col-lg-3 col-md-6 col-sm-12">
+              <div class="inner-column">
+                <div class="icon-box"><span class="flaticon-pin"></span></div>
+                <ul>
+                  <!-- <li><strong data-local="address"></strong></li> -->
+                  <li>
+                    <a
+                      href="#contact-map-section"
+                      data-local="addressInfo"
+                      class="phone-link"
+                    ></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Info Column -->
+            <div class="info-column col-lg-3 col-md-6 col-sm-12">
+              <div class="inner-column">
+                <div class="icon-box">
+                  <span class="flaticon-phone-call"></span>
+                </div>
+                <ul>
+                  <!-- <li><strong data-local="phone"></strong></li> -->
+                  <li style="padding: 10px">
+                    <a href="tel:+74951206509" class="phone-link"
+                      >+7 (495) 120-65-09</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Info Column -->
+            <div class="info-column col-lg-3 col-md-6 col-sm-12">
+              <div class="inner-column">
+                <div class="icon-box">
+                  <span class="flaticon-email-1"></span>
+                </div>
+                <ul>
+                  <!-- <li><strong data-local="eMail"></strong></li> -->
+                  <li style="padding: 10px">
+                    <a href="mailto:info@aobfg.ru" class="email-link"
+                      >info@aobfg.ru</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Info Section -->
+
+      <!-- Main Footer -->
+      <footer class="main-footer style-three">
+        <div
+          class="pattern-layer-three"
+          style="background-image: url(images/background/pattern-14.png)"
+        ></div>
+        <div
+          class="pattern-layer-four"
+          style="background-image: url(images/background/pattern-15.png)"
+        ></div>
+        <!--Waves end-->
+        <div class="auto-container">
+          <!--Widgets Section-->
+          <div class="widgets-section">
+            <div class="row clearfix">
+              <!-- Footer Column -->
+              <div class="footer-column col-lg-4 col-md-6 col-sm-12">
+                <div class="footer-widget logo-widget">
+                  <h5 data-local="companyHistory"></h5>
+                  <div class="text" data-local="companyHistoryDesc2"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Footer Bottom -->
+        <div class="footer-bottom">
+          <div class="auto-container">
+            <div class="row clearfix">
+              <!-- Column -->
+              <div class="column col-lg-6 col-md-12 col-sm-12">
+                <div class="copyright" data-local="footerDesc"></div>
+              </div>
+              <!-- Column -->
+              <div class="column col-lg-6 col-md-12 col-sm-12">
+                <ul class="footer-nav">
+                  <li><a href="about.html" data-local="aboutUs"></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!--End pagewrapper-->
+
+    <!--Scroll to top-->
+    <div class="scroll-to-top scroll-to-target" data-target="html">
+      <span class="fa fa-arrow-up"></span>
+    </div>
+
+    <script src="js/local.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/jquery.fancybox.js"></script>
+    <script src="js/appear.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script src="js/tilt.jquery.min.js"></script>
+    <script src="js/jquery.paroller.min.js"></script>
+    <script src="js/owl.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/validate.js"></script>
+    <script src="js/nav-tool.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/color-settings.js"></script>
+    <script src="js/phoneValidation.js"></script>
+
+    <script>
+      const setLocalization = (lang) => {
+        window.localStorage.setItem("lang", lang);
+        setLanguage();
+      };
+
+      // Phone Mask
+      const phone = document.getElementById("vacancy-phone-input");
+
+      startInputValidation(phone);
+
+      const spacesRegexp = /[ ]+/g;
+
+      // Name Mask
+      const name = document.getElementById("vacancy-name-input");
+      name.addEventListener("blur", function () {
+        name.value = name.value.trim();
+        name.value = name.value.replaceAll(spacesRegexp, " ");
+      });
+
+      // Surname Mask
+      const surname = document.getElementById("vacancy-surname-input");
+      surname.addEventListener("blur", function () {
+        surname.value = surname.value.trim();
+        surname.value = surname.value.replaceAll(spacesRegexp, " ");
+      });
+
+      // City Residence Mask
+      const cityResidence = document.getElementById(
+        "vacancy-city-residence-input",
+      );
+      cityResidence.addEventListener("blur", function () {
+        cityResidence.value = cityResidence.value.trim();
+        cityResidence.value = cityResidence.value.replaceAll(spacesRegexp, " ");
+      });
+
+      // Attach Form
+      let selectedFile = null;
+      const clickAttachContent = () => {
+        document.getElementById("vacancy-resume-input").click();
+      };
+      const changeResumeInput = (event) => {
+        selectedFile = event.files[0];
+        document.getElementById("selected-file-name").innerText =
+          selectedFile.name;
+      };
+
+      // Check Validation
+      const checkFormValidation = () => {
+        // Check Name
+        const nameValue = name.value;
+        const nameEmptyError = document.getElementById(
+          "vacancy-form-name-empty-error",
+        );
+        nameEmptyError.style.display = nameValue.replaceAll(" ", "")
+          ? "none"
+          : "block";
+
+        // Check Surname
+        const surnameValue = surname.value;
+        const surnameEmptyError = document.getElementById(
+          "vacancy-form-surname-empty-error",
+        );
+        surnameEmptyError.style.display = surnameValue.replaceAll(" ", "")
+          ? "none"
+          : "block";
+
+        // Check Phone
+        const phoneValue = phone.value;
+        const phoneEmptyError = document.getElementById(
+          "vacancy-form-phone-empty-error",
+        );
+        const phoneCurrentError = document.getElementById(
+          "vacancy-form-phone-current-error",
+        );
+        phoneEmptyError.style.display = phoneValue.replaceAll(" ", "")
+          ? "none"
+          : "block";
+        const isValidPhone = phoneValue.replace(/\D/gm, "");
+        phoneCurrentError.style.display =
+          phoneValue && isValidPhone.length !== 11 ? "block" : "none";
+
+        // Check City Residence
+        const cityResidenceValue = cityResidence.value;
+        const cityResidenceEmptyError = document.getElementById(
+          "vacancy-form-city-residence-empty-error",
+        );
+        cityResidenceEmptyError.style.display = cityResidenceValue.replaceAll(
+          " ",
+          "",
+        )
+          ? "none"
+          : "block";
+
+        const isValid =
+          nameEmptyError.style.display === "none" &&
+          surnameEmptyError.style.display === "none" &&
+          phoneEmptyError.style.display === "none" &&
+          phoneCurrentError.style.display === "none" &&
+          cityResidenceEmptyError.style.display === "none";
+
+        return isValid;
+      };
+
+      // Reset Form
+      const resetForm = () => {
+        document.getElementById("vacancy-name-input").value = "";
+        document.getElementById("vacancy-surname-input").value = "";
+        document.getElementById("vacancy-phone-input").value = "";
+        document.getElementById("vacancy-city-residence-input").value = "";
+        document.getElementById("vacancy-current-place-work-input").value = "";
+        document.getElementById("vacancy-resume-input").value = "";
+        document.getElementById("selected-file-name").innerText = "";
+      };
+
+      // Send Form
+      const sendForm = () => {
+        const formData = {
+          name: name.value,
+          surname: surname.value,
+          phone: phone.value.replace(/\D/gm, ""),
+          cityResidence: cityResidence.value,
+          currentPlaceWork: document.getElementById(
+            "vacancy-current-place-work-input",
+          ).value,
+          desiredPosition: document.getElementById(
+            "vacancy-desired-position-select",
+          ).value,
+          cvFile: selectedFile,
+        };
+        document.getElementById("contact-form-sent-text").style.display =
+          "block";
+        resetForm();
+        console.log(formData, "sendForm");
+      };
+
+      // Send Form
+      const handleSubmit = () => {
+        const isValidForm = checkFormValidation();
+
+        if (!isValidForm) return;
+
+        isValidForm && sendForm();
+      };
+    </script>
+  </body>
+</html>
