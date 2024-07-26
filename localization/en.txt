@@ -1,0 +1,157 @@
+home|Home
+aboutUs|About Us
+products|Products
+contactUs|Contacts
+freeConsulting|Free Consulting
+companyHistory|Company history
+companyHistoryDesc|BFG JSC was founded in 2019, but the history of our developments began back in 1997. Over the years of our existence, we have achieved significant success in the field of virtualization and information security.
+consultation|Consultation
+addressInfo|Moscow, Goncharnaya str., 38, 2/1/11, office 8
+workDays|Week Days: 09.00 to 18.00 Sunday: Closed
+whoWeAre|WHO WE ARE
+whoWeAreText1|Development, Implementation and Support
+whoWeAreText2|Cloud Virtualization and Data Storage Systems
+whoWeAreItem1Title|User-friendly interface
+whoWeAreItem4Desc|Надежное и эффективное резервное копирование данных.
+whoWeAreItem5Title|3D support
+whoWeAreItem5Desc|Support for three-dimensional graphics for an optimal virtual machine experience.
+whoWeAreItem3Desc|We contribute to the development of domestic technologies and products.
+whoWeAreItem1Desc|We make technologies accessible and understandable for all users.
+whoWeAreItem2Desc|Our solutions provide a high level of security and information protection.
+whoWeAreItem2Title|Information protection
+whoWeAreItem3Title|Import substitution
+whoWeAreItem4Title|Backup
+webDevelopment|Web Development
+whoWeAreItem5Desc|We carry more than just good coding skills. Our experience makes us stand out from other web development.
+mobileDevelopment|Mobile Development
+whoWeAreItem6Desc|Create complex enterprise software, ensure reliable software integration, modernise your legacy system.
+uIUXDesign|UI/UX Design
+whoWeAreItem7Desc|Build the product you need on time with an experienced team that uses a clear and effective design process.
+qATesting|QA & Testing
+whoWeAreItem8Desc|Turn to our experts to perform comprehensive, multi-stage testing and auditing of your software.
+iTConsultancy|IT Consultancy
+whoWeAreItem9Desc|Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios.
+dedicatedTeam|Dedicated Team
+whoWeAreItem10Desc|Over the past decade, our customers succeeded by leveraging Intellectsoft’s process of building, motivating.
+address|Address
+phone|Phone
+eMail|E-Mail
+companyHistoryDesc2|BFC LLC was founded in 2019, but the history of our developments began back in 1997. Over the years of our existence, we have achieved significant success in the field of virtualization and information security.
+footerDesc|Copyright © 2023 BFG JSC. All rights reserved.
+aboutCompany|About Company
+aboutCompanyDesc|BFG JSC is a Russian developer of software and information security tools. The company develops solutions in the field of operating systems, virtualization and storage systems, as well as provides services for the design of secure scalable information systems. All work is carried out taking into account information security requirements.
+aboutCompanyDesc2|In addition to its own solutions, the company provides support, implementation and maintenance of domestic virtualization software and data storage systems from the registry of domestic software:
+aboutCompanyDesc3|The Zvezda software package
+aboutCompanyDesc4|Storm data storage system
+aboutCompanyDesc5|Our team brings together experts in the field of information systems development and design with many years of experience.
+aboutCompanyDesc6|Our developments can be found in the "Products" section.
+aboutCompanyTechStackHeader|Technology Stack and Competencies
+aboutCompanyTechStack|We pay great attention to the selection and application of modern technologies to ensure the outstanding quality of our products. Below is our technology stack and the areas in which we have high competencies:
+aboutCompanyTechStack2|HTML, CSS3 and JavaScript (JS): We create creative and interactive web applications using HTML, CSS3 and JavaScript. Our designers and developers work closely together to provide a beautiful and intuitive user interface.
+aboutCompanyTechStack3|Golang: Our development team has significant experience in using Go to create high-performance and scalable server applications. This allows us to provide excellent performance and reliability.
+aboutCompanyTechStack4|C/C++: We have deep knowledge in the field of C/C++, and these languages are the basis for the development of system software and solutions with increased performance requirements.
+aboutCompanyTechStack5|Python: Python is used by us to develop scripts, automate tasks, and develop applications using frameworks such as Django and Flask.
+aboutCompanyTechStack6|Tailwind CSS: We actively use Tailwind CSS for fast and flexible user interface development. This framework allows us to create creative designs with a minimum of effort.
+aboutCompanyTechStack7|Next and Vue.js: We are developing modern web applications using Nuxt.js and Vue.js. These frameworks allow us to create high-speed applications with convenient state management.
+aboutCompanyTechStack8|gRPC and Protobuf: We use GPS and Protobuf to create efficient and reliable APIs between our microservices. These technologies allow us to easily share data between the components of our applications.
+aboutCompanyTechStack9|Linux: We develop and deploy our applications on the Linux platform, which ensures the stability and high performance of our services.
+aboutCompanyTechStack10|Docker: We use Docker to containerize our applications, which simplifies the deployment and management of our microservices, as well as provides scalability and isolation.
+aboutCompanyTechStackEnd|This is only a small part of the technologies that we use in our work. Our team is also actively exploring and implementing new tools and methodologies to always stay at the forefront of the development world. Our experience and expertise make us a reliable partner for your technology projects.
+ourValuesPrinciplesDesc|We value innovation, quality and safety in everything we do. Our company strives for the development of domestic technologies and for long-term relationships with our customers.
+iNN|INN
+cPP|CIO
+activeClients|CLIENTS
+productsDone|PROJECTS
+teamAdvisors|TEAM
+gloriousYears|YEARS
+about|About
+aboutPageAboutTitle|Transform Your Business With The Leading IT Solution rovider.
+aboutPageAboutDesc|We listen. We advise. We design, together. Happy customers and ongoing relationships are what we strive for. Success is measured by results, the most important being how our clients feel about their experience with us.
+appDevelopment|App Development
+oURProcess|OUR PROCESS
+oURProcessTitle|Driving Client Results Utilizing New
+oURProcessTitle2|Innovation Points of view
+oURProcessItem1Title|End to End Solutions and Services Guaranteed
+oURProcessItem1Desc|Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. per inceptos himenaeos.
+oURProcessItem2Title|Ahead of The Curve We Future-proof Your IT
+oURProcessItem2Desc|Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. per inceptos himenaeos.
+oURProcessItem3Title|Experience Certainty Every Project Executed Successful
+oURProcessItem3Desc|Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. per inceptos himenaeos.
+readMore|Read More
+latestCaseStudies|LATEST CASE STUDIES
+productsPageTitle|Read now our recent
+productsPageTitle2|Products
+getInTouch|GET IN TOUCH
+contactUsPageTitle|A Monthly Project Fee
+contactUsPageTitle2|Price Plans
+contactUsPageDesc|For genereal enquires you can touch with our front desk supporting team
+at|at
+orCallOn|or call ont
+contactUsPageDesc3|We are at 36 places over the country,
+contactUsPageDesc4|see our branches.
+iTSolutions|IT-Solutions
+projectInfo|Project Info
+oС42Desc|This is a type 1 hypervisor, which is a hypervisor operating system that provides reliable server virtualization.
+client|Client
+category|Category
+date|Date
+website|Website
+location|Location
+businessCampaign|Business, Campaign
+newYork|New York
+oС42Date|6 June 20
+oС42Client|John Amanda
+innovativeInterfaces|Innovative Interfaces
+FIPSRegistration|Регистрация в ФИПС
+procuratorProductName|«Программный комплекс «Прокуратор»
+procuratorFIPSRegistrationDate|Дата регистрации: 13.10.2023
+procuratorFIPSRegistrationNumber|Номер регистрации (свидетельства): 2023681429
+procuratorReferat|Программный комплекс «Прокуратор» является платформой для управления гипервизором. Поддерживает развертывание виртуальных машин с гостевыми ОС семейства Windows и Linux, подключение хранилищ и создание виртуальных сетей. Тип ЭВМ: х86_64 с поддержкой INTEL-VT или AMD-V; ОС: LINUX версии не ниже 5.х.х
+sphereProductName|«Программный комплекс «Сфера»
+sphereFIPSRegistrationDate|Дата регистрации: 13.10.2023
+sphereFIPSRegistrationNumber|Номер регистрации (свидетельства): 2023681428
+sphereReferat|Программный комплекс «Сфера» предназначен для создания платформы централизованного (через единую консоль) управления виртуальной инфраструктурой. С помощью ПК «Сфера» осуществляется управление жизненным циклом всех виртуальных машин, мониторинг их состояния, отслеживание возникающих ошибок, масштабирование виртуальной инфраструктуры, контроль всех хостов и кластеров, управление режимом высокой доступности и отказоустойчивости, создание программно- определяемых распределённых систем хранения. Тип ЭВМ: х86_64 с поддержкой INTEL-VT или AMD-V; ОС: ОС с ядром LINUX версии не ниже 5.х.х.
+teleportProductName|«Программный комплекс «Телепорт»
+teleportFIPSRegistrationDate|Дата регистрации: 10.10.2023
+teleportFIPSRegistrationNumber|Номер регистрации (свидетельства): 2023681064
+teleportReferat|Программный комплекс предназначен для создания инфраструктуры виртуальных рабочих столов (VDI) и реализует возможности управления всеми виртуальными рабочими станциями с централизованной консоли, поддержку работы с несколькими мониторами, воспроизведение видео и видеоконференцсвязи, подключение к периферийным устройствам, а также обеспечивает легкое масштабирование для поддержки растущего числа виртуальных компьютеров и балансировку вычислительных ресурсов для наибольшей производительности всей виртуальной инфраструктуры. Тип ЭВМ: х86_64 с поддержкой INTEL-VT или AMD-V; ОС: с ядром Linux версии не ниже 5.х.х.
+oС42InnovativeInterfaces|Lorem Ipsum — это просто текст-пустышка полиграфической и наборной индустрии. Lorem Ipsum был стандартным текстом-пустышкой в отрасли с 1500-х годов, когда неизвестный типограф взял гранку шрифтов и переделал ее, чтобы сделать книгу образцов шрифтов. Он пережил не только пять столетий, но и скачок в электронную верстку, оставшись по существу неизменным. Он пережил не только пять столетий, но и скачок в электронную верстку, оставшись по существу неизменным. оставаясь по существу неизменными.
+youMayAlsoKnowHowItUses|Вы также можете знать, как он используется в сфере ИТ?
+oС42YouMayAlsoKnowHowItUses|Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. remaining essentially unchanged.
+projectResultBenefitsProject|Project Result & Benefits of Project
+oС42ProjectResultBenefitsProject|It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now.
+moreProducts|More Products
+oС42|ОС42
+procurator|Procurator
+sphere|Sphere
+teleport|Teleport
+remoteConsole|RemoteConsole
+stormStorage|Storm Storage
+procuratorGuestTools|Procurator GuestTools
+projectDetail|Project Detail
+procuratorOС42Desc|A hypervisor management and virtual machine orchestration system that provides convenient management and control of virtual environments.
+procuratorGuestToolsDesc|Guest utilities to optimize the operation of virtual machines and support 3D graphics.
+remoteConsoleDesc|A client for remote access to virtual machines, which allows you to work effectively with virtual environments.
+sphereDesc|A data center management and orchestration system that provides effective management of the data infrastructure.
+stormStorageDesc|A cluster storage system for virtual machines that provides reliable and high-performance information storage.
+teleportDesc|An innovative management and orchestration system for virtual workplace infrastructure, ensuring high productivity and security.
+contactInfo|Contact Info
+contact|Contact
+fieldCannotBeEmpty|The field cannot be empty
+phoneCurrentErrorText|Enter a valid phone number
+homepage|Home page
+feedback|Feedback
+phoneNumber|Phone number
+sendNow|Send Now
+technologyStack|Technology Stack
+serviceDetail|Details
+howCanHelp|How Can We Help?
+howCanHelpDesc|If you need any help, please feel free to contact us.
+itConsultancy|IT Consultancy
+itConsultancyDesc|We help transform the world’s most important businesses into vigorous organizations that anticipate the agile unpredictable, adapt rapidly to disruption and outcompete opposition. We work with clients who not hide from the future but want define clients with high potential and high ambition.
+itConsultancyDesc2|We help transform the world’s most important businesses into vigorous organizations opposition. We work with clients who not hide from the future but want define clients with high potential and high ambition. We go deep to unlock insight and have courage to act. We bring the right people together to challenge established thinking and drive transformation. We work with our clients to build the capabilities that enable organizations to achieve sustainable advantage.
+cyberSecurity|Cyber Security
+cyberSecurityDesc|Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ulac laboris aliquip ex ea commodo consequat duis aute irure.dolor in repre henderit in voluptate velit esse cillum fugiat nulla paria tur excepteur sint cupidatat non proident.
+analyzingITServices|Analyzing IT services
+analyzingITServicesDesc|We help transform the world’s most important businesses into vigorous organizations that anticipate the agile unpredictable, adapt rapidly to disruption and outcompete opposition. We work with clients who not hide from the future but want define clients with high potential and high ambition.
+analyzingITServicesDesc2|We help transform the world’s most important businesses into vigorous organizations opposition. We work with clients who not hide from the future but want define clients with high potential and high ambition.
