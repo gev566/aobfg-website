@@ -10601,6 +10601,96 @@ input[type="radio"]:checked
     margin-top: 30px;
 }
 
+.gallery-section .custom-image-block {
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.gallery-section .background-block {
+    height: 360px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.gallery-section .background-block .background-image-block {
+    background-image: url("../images/products/block-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.gallery-section .inner-box:hover .background-block .background-image-block {
+    transform: scale(1.2);
+}
+
+.gallery-section .background-block .top-block .icon {
+    width: 88px !important;
+    height: 88px !important;
+}
+
+.gallery-section .background-block .bottom-block .title-block {
+    display: flex;
+    align-items: center;
+    margin-bottom: 12px;
+    justify-content: space-between;
+    position: relative;
+}
+
+.gallery-section .background-block .bottom-block .title-block .title-product {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    margin-bottom: unset;
+}
+
+.gallery-section .background-block .bottom-block .title-block .arrow-icon {
+    width: 14px;
+    transition: 0.5s;
+    position: absolute;
+    right: 100%;
+    opacity: 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.inner-box:hover .background-block .bottom-block .title-block .arrow-icon {
+    right: 0;
+    opacity: 1;
+}
+
+.gallery-section .background-block .bottom-block .description-product {
+    color: #9da6ad;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.5px;
+    margin-bottom: 0;
+}
+
+.gallery-section .background-opacity-block {
+    border-radius: 12px;
+    background: #00000033;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    opacity: 0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.gallery-section .inner-box:hover .background-opacity-block {
+    opacity: 1;
+}
+
 .case-block.mix {
     display: none;
 }
