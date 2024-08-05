@@ -125,7 +125,7 @@ oС42|ОС42
 procurator|Procurator
 sphere|Sphere
 teleport|Teleport
-remoteConsole|RemoteConsole
+remoteConsole|Remote Console
 stormStorage|Storm Storage
 procuratorGuestTools|Procurator GuestTools
 projectDetail|Project Detail

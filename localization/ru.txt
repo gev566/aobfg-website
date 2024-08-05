@@ -129,7 +129,7 @@ oС42|ОС42
 procurator|Прокуратор
 sphere|Сфера
 teleport|Телепорт
-remoteConsole|RemoteConsole
+remoteConsole|Remote Console
 stormStorage|Штормовое хранилище
 procuratorGuestTools|Гостевые инструменты Прокуратора
 projectDetail|Детали продукта
